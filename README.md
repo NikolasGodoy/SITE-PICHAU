@@ -38,4 +38,4 @@ Optei por utilizar exclusivamente **classes** para a estilização. Embora o uso
 ---
 
 ## 👤 Desenvolvedor
-**Front-End Developer** em formação pelo **Instituto da Oportunidade Social (IOS)**. Apaixonado por tecnologia, hardware e pela construção de uma web mais leve e acessível.
+**Nikolas Mauer Godoy** em formação pelo **Instituto da Oportunidade Social (IOS)**. Apaixonado por tecnologia, hardware e pela construção de uma web mais leve e acessível.
